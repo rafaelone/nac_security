@@ -13,4 +13,4 @@ COPY . .
 
 EXPOSE 80
 
-CMD ['node', "app""]
+CMD ["node", "app"]
